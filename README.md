@@ -40,7 +40,7 @@ Next, add files you wish to push to the remote repo with
 git add updated_file_1.md updated_file_2
 ```
 
-Finally, commit your changes with:
+Finally, commit your changes with
 ```
 git commit -m "Your commit message here to describe the changes"
 ```
@@ -48,7 +48,7 @@ and push to the remote repo:
 ```
 git push
 ```
-(You will need to use `git push -u origin my_dev_branch` the first time you push changes to also create a copy of your local branch on the remote repo).
+(You will need to use `git push -u origin my_dev_branch` the first time you push changes to create a copy of your local branch on the remote repo).
 
 
 

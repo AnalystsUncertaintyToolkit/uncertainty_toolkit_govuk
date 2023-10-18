@@ -1,5 +1,5 @@
 ---
-title: "Sources of analytical uncertainty - data"
+title: "Sources of uncertainty - data"
 date: 2023-02-27T17:25:32Z
 draft: false
 weight: 2

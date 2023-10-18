@@ -1,5 +1,5 @@
 ---
-title: "Sources of analytial uncertainty - assumptions"
+title: "Sources of analytical uncertainty - assumptions"
 date: 2023-02-27T17:25:32Z
 draft: false
 summary: "Sources assumptions summary..."

@@ -9,6 +9,7 @@ summary:
 
 There are a number of ways to classify uncertainty. A common classification divides uncertainty into known knowns, known unknowns, and unknown unknowns, as we explain in the table below. [Other classifications](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.181870) consider, for example, the range of things about the analysis which may be uncertain and whether uncertainty relates directly to these “objects” of uncertainty or to the quality of evidence behind them. We recommend following one of these frameworks when assessing the uncertainties that affect your analysis and the decisions it will inform.
 
+<hr>
 
 | Classification  | Aleatory uncertainty | Known unknowns - Epistemic uncertainty | Unknown unknowns - Ontological, Structural and Deep uncertainty* |
 | --------------- | ------------------------- | ---------------------------- | -------------------------------- | 

@@ -2,7 +2,6 @@
 title: "3. Defining and identifying uncertainty"
 date: 2023-02-27T17:25:32Z
 draft: false
-weight: 2
 listpages: false
 ---
 

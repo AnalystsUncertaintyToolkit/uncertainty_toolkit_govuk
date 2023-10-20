@@ -12,7 +12,7 @@ Commonly used experimental and quasi-experimental methods include randomised con
 
 The sources of uncertainty in experimental and quasi-experimental research can be broadly categorised into data, study design and statistical analysis. Analysts who employ these methods should consider to what degree each of these three areas create uncertainty in understanding and estimating the impact of a given policy or intervention.
 
-## <u> Data </u>
+## Data
 
 Regarding quantitative data for evaluations, some of the things you need to consider are the sample size, representativeness, choice of indicators and whether there is any missing data.
 
@@ -40,7 +40,7 @@ On the other hand, data on depression would be MAR if men were generally less li
 
 Reasons for missing data include: social desirability bias in surveys, attrition in longitudinal studies, data entry errors, poor quality data collection instruments, or under-sampling of groups that are difficult to reach. You should ask: is some of the data in your dataset missing? If so, why is it missing?
 
-## <u> Study Design </u>
+## Study Design
 
 The design of a study and assumptions about how potential effects will be identified can be a significant source of uncertainty.
 
@@ -64,7 +64,7 @@ A few examples of randomisation being compromised are:
 
 However, in many contexts randomisation is not feasible or ethical. In these situations, it is possible to employ a quasi-experimental method to create a counterfactual (for more details see the [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book)). Analysts must ask themselves if the design of the counterfactual creates potential for uncertainty in the research findings.
 
-## <u> Analysis </u>
+## Analysis
 
 ### Statistical analysis
 

@@ -8,7 +8,9 @@ summary: "Sources data summary..."
 
 The data that feeds into your analysis project will have been previously specified, defined, and collected. In some cases you may do this yourself, but you may also draw on data sources collected by others. Having chosen your data sources for your project you will need to think about how well your data describes the reality of the situation you are modelling or analysing.
 
-To gain a full picture of the impact of data uncertainty on your analysis you should think through what you know about where your data has come from. You should use a data log with quality and impact Red Amber Green (RAG) ratings. Consider the following questions.
+To gain a full picture of the impact of data uncertainty on your analysis you should think through what you know about where your data has come from. You should use a data log with quality and impact Red Amber Green (RAG) ratings.
+
+## Consider the following questions
 
 ### How well do the definitions and concepts in the data chosen fit with what you are trying to analyse?
 Differences between the data and your target group can mean that a dataset captured for one purpose is inappropriate for another. For example, you might want to analyse London & South East but only have data for the whole of the UK.

@@ -39,7 +39,7 @@ For parameters that have been the subject of academic studies a literature revie
 
 If no quantitative data is available, consider whether there are relevant policy/operational constraints that will limit your range. Judgement from experts can be also be used to create sensible ranges.
 
-## Qualitative assesment of uncertainty
+## Qualitative assessment of uncertainty
 
 In some situations, it is not possible to create a probability distribution or a range. In such cases, make a qualitative assessment of uncertainty. This is still useful to analysts and customers to consider the magnitude of uncertainty.
 

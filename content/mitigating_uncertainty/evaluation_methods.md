@@ -1,7 +1,7 @@
 ---
-title: "Mitigating uncertainty in qualitative research"
+title: "Mitigating uncertainty in "
 draft: false
-weight:
+weight: 2
 ---
 
 An important consideration in experimental and quasi-experimental evaluation methods is whether the counterfactual and intervention group are comparable. This depends on the collection of comparable data from both the intervention and control groups to ensure you can measure the intervention effect. In addition, the intervention effect must be large enough to be distinguished from noise in the data. Details of how to design a counterfactual for quasi-experimental and experimental studies can be found in the [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book).

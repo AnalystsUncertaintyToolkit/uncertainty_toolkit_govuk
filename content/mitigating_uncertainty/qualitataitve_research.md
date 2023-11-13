@@ -1,7 +1,7 @@
 ---
 title: "Mitigating uncertainty in qualitative research"
 draft: false
-weight:
+weight: 3
 ---
 
 There are three main ways to mitigate uncertainty when conducting and using qualitative research: standardisation; validation; and transparency.

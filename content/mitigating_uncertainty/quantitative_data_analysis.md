@@ -1,7 +1,7 @@
 ---
 title: "Mitigating uncertainty in quantitative data analysis"
 draft: false
-weight:
+weight: 2
 ---
 
 ## Missing data

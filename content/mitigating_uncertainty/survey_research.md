@@ -1,7 +1,7 @@
 ---
 title: "Mitigating uncertainty in survey research"
 draft: false
-weight:
+weight: 4
 ---
 
 There are numerous different ways to reduce the risk of uncertainty posed by your data collection methods.

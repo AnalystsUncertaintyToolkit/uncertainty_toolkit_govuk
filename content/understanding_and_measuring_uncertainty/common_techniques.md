@@ -130,7 +130,7 @@ Repeat for the variance at each subsequent time period to produce e.g. a fan for
 
 #### Example
 
-[MoJ prison population forecasting](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/case_studies.html#estimating_uncertainty_in_prison_population_projections)
+[MoJ prison population forecasting]({{< ref "/case_studies" >}})
 
 {{< /accordion >}}
 
@@ -159,7 +159,7 @@ This is not a robust way of estimating overall uncertainty, as it ignores all bu
 
 #### Example
 
-The Accuracy Tracking Tool <b>(link to DfE Accuracy tracking tool to come)</b> can be used to estimate the residual uncertainty once the dominant uncertainty has been modelled. This tool assesses the accuracy of different forecast elements and allows you to see the percentage which both the dominant and residual uncertainty contribute to the total error.
+The Accuracy Tracking Tool from the Department for Education can be used to estimate the residual uncertainty once the dominant uncertainty has been modelled. This tool assesses the accuracy of different forecast elements and allows you to see the percentage which both the dominant and residual uncertainty contribute to the total error.
 
 {{< /accordion >}}
 

@@ -4,9 +4,13 @@ draft: false
 weight: 5
 ---
 
-There are three main ways to mitigate uncertainty when conducting and using qualitative research: standardisation; validation; and transparency.
+There are three main ways to mitigate uncertainty when conducting and using qualitative research: standardisation, validation and transparency.
 
-Firstly, standardisation of tools and process can help to minimise uncertainty. To minimise the uncertainty that researchers can introduce to the research, steps should be taken to facilitate consistency in approach throughout the research process - from participant recruitment, through to fieldwork (interviews and focus groups), analysis and reporting. The exceptions to this is where the researcher is intended to be part of the research process, and their perspective is a key output (e.g. where they play the role of participant observers or immerse themselves in a culture), or where there are ethical considerations that need to be considered to ensure participant welfare.
+Standardisation of tools and process can help to minimise uncertainty. Steps should be taken to facilitate consistency in approach throughout the research process - from participant recruitment, through to fieldwork (interviews and focus groups), analysis and reporting. The exceptions to this is where the researcher is intended to be part of the research process, and their perspective is a key output (e.g. where they play the role of participant observers or immerse themselves in a culture), or where there are ethical considerations that need to be considered to ensure participant welfare. Standardisation is considered in the sections: 'Research tools', 'Outputs' and 'Analysis' below.
+
+A range of techniques can be used to validate qualitative findings. We discuss analytic induction, data triangulation, respondent validation and analytical quality assurance below.
+
+Transparency is important for public trust and to build confidence in research findings. Transparency is covered in the last section, 'Analytical quality assurance'.
 
 ## Research tools
 
@@ -24,7 +28,6 @@ The main sources of data produced via qualitative research are written outputs. 
 
 Where a team of researchers are involved in conducting the fieldwork and analysing and reporting the findings it is important to establish a common approach to analysis up front. It is common practice to use analysis software such as NVivo or MAXQDA, or even a simple spreadsheet. Regardless of the preferred analytical tool being used, the process can be expedited and facilitated by setting out expectations of how data should be organised and managed before commencing analysis, establishing a common set of labels or codes that can be applied to the data during analysis, and agreeing points to review and refine the approach.
 
-A range of techniques can be employed to sense-check interpretation, appropriateness and prevalence of qualitative findings. These include: 1) analytic induction; 2) data triangulation; 3) respondent validation; and 4) analytical quality assurance.
 
 ## Analytic induction
 

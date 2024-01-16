@@ -32,6 +32,8 @@ Will the decision be based purely on the results of the analysis, or is it just 
 
 If the output is to be fed into ‘downstream’ models, then it is important to understand the requirements of those models. For example, if scenarios are used to illustrate uncertainty in your model, then these may not be suitable inputs for a Monte Carlo simulation in a dependent model.
 
+## To summarise
+
 Now that we know what the question is and the context in which the analysis will be used, we should agree how to build appropriate uncertainty into the analysis. It is a good idea to ask the decision maker what it is conceptually that they would like to be able to say. This is important as it frames how the uncertainty analysis will be conducted.
 
 ## Work with the decision maker to inform their decision at the right time
@@ -42,18 +44,17 @@ We can help the decision-maker to understand how information about the uncertain
 
 ### Avoid misleading results or spurious accuracy by choosing the appropriate presentation
 
-We can assess the impact of uncertainty using many different techniques. Not all will be appropriate for a given piece of analysis. A poor choice of technique may even give misleading results. For example, if there are many sources of uncertainty, the use of 95% confidence intervals to describe just one limited part of this uncertainty may be misleading, and modelling a range of described scenarios may be more appropriate. Appropriate presentation, such as rounding, is equally important to avoid spurious accuracy and impling better precision than is actually the case. Communication is covered further in the presenting and communicating uncertainty section.
+We can assess the impact of uncertainty using many different techniques. Not all will be appropriate for a given piece of analysis. A poor choice of technique may even give misleading results. For example, if there are many sources of uncertainty, the use of 95% confidence intervals to describe just one limited part of this uncertainty may be misleading, and modelling a range of described scenarios may be more appropriate. Appropriate presentation, such as rounding, is equally important to avoid spurious accuracy and implying better precision than is actually the case. Communication is covered further in [Presenting and Communicating Uncertainty]({{< ref "/presenting_and_communicating_uncertainty">}}).
 
 ### Discuss how the uncertainty will inform the decision-maker’s judgement
 
 Discuss with the decision-maker what level of uncertainty is acceptable. Do they want to know how wrong the forecast would need to be in order to change or rethink the policy? Or are they simply interested in an output “range”? If so, what does that “range” actually mean?
 
 Examples can be very helpful when discussing the analysis with the decision maker. An answer to the question of the net benefits of a policy may be £3m, with uncertainty analysis giving a broad range of £0.5-5.5m. You could discuss with the decision maker how they want to be able to frame the analysis, for example:
-“A range of £0.5-5.5m”;
-“The estimated benefits are £3m, with analysis showing a 90% likelihood that benefits will be between £1-5m”;
-“Analysis shows that there is an 80% likelihood that the net benefits will be greater than £2m”;
-“The policy needs to have x
- amount of takeup in order to break even”
+- “A range of £0.5-5.5m”
+- “The estimated benefits are £3m, with analysis showing a 90% likelihood that benefits will be between £1-5m”
+- “Analysis shows that there is an 80% likelihood that the net benefits will be greater than £2m”
+- “The policy needs to have x amount of takeup in order to break even”
 
 Operational decision makers may not want to see a range of results, but instead want to plan to a certain level of confidence, such as 65% or 95% rather than 50%. For example, when planning the number of schools, prison places or GPs we’ll need over the next 5 years, it may be more appropriate to plan to a higher level of confidence than 50%.
 

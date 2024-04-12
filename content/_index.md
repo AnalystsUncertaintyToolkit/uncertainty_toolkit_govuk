@@ -14,8 +14,7 @@ The toolkit is presented in the first instance as a suggested set of guidelines 
 
 This toolkit is aimed at all analysts, whether you are new to the Government or an experienced analyst looking to develop the way you communicate uncertainty to stakeholders.
 
-This document sits alongside the Aqua Book guidance on quality analysis. The Aqua Book should be read first as it describes the principles of uncertainty analysis and the processes that should be used in considering it. This is a supplementary document providing additional information for identifying, estimating and communicating uncertainty in analysis to support decisions and decision-makers. We have also provided a [one-page decision-maker summary]({{< ref "decision_maker_summary">}}).
-
+This document sits alongside the Aqua Book guidance on quality analysis. The Aqua Book should be read first as it describes the principles of uncertainty analysis and the processes that should be used in considering it. This is a supplementary document providing additional information for identifying, estimating and communicating uncertainty in analysis to support decisions and decision-makers. 
 ## Toolkit contents
 
 1. [**Introduction**]({{< ref "introduction">}})<br>This chapter motivates undertaking analysis of uncertainty and outlines the content of following chapters.
@@ -27,7 +26,6 @@ Considering the whole system that influences your analysis helps identify all po
 5. [**Understanding and measuring uncertainty**]({{< ref "introduction">}})<br> Before conducting uncertainty analysis, you should consider the range of possible techniques. We provide a list of the most common techniques with some examples for reference.
 6. [**Presenting and communicating uncertainty**]({{< ref "presenting_and_communicating_uncertainty">}})<br> There is little point conducting any analysis if it has no impact, so this is perhaps the most important section. It is important to engage with your decision makers so they take account of uncertainty in any decisions they make. You should think about how you interact with the audience, tailoring your communication to different groups. This will help them to understand the consequences of uncertainty and why they should be interested in it.
 7. [**Case Studies**]({{< ref "case_studies">}})<br> A collection of case studies showing the toolkit's chapter in action.
-8. [**Decision-maker summary**]({{< ref "decision_maker_summary">}})<br> A one-page decision-maker summary.
 9. [**Resources and further reading**]({{< ref "further_reading">}})<br> A collection of useful resources including toolkits and guides from other government departments.
 
 ### Feedback

@@ -18,4 +18,3 @@ This toolkit is designed to provide guidance to analysts on how to incorporate u
 
 This toolkit has set out good, not best, practice, as analysis and communication must always be tailored to the audience and decision being made.
 
-Please get in touch if you have any comments by emailing Ramesh Deonarine at [ramesh.deonarine@theccc.org.uk](mailto:ramesh.deonarine@theccc.org.uk) or George Pickering at [george.pickering@dsit.gov.uk](mailto:geoge.pickering@dsit.gov.uk) 

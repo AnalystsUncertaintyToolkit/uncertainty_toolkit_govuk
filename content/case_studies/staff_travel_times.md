@@ -7,13 +7,13 @@ weight: 3
 ## The situation
 
 
-Alternative government office locations were being considered and their on staff travel times.
+Alternative government office locations were being considered and their impact on staff travel times.
 
-## The analytical approach:
+## The analytical approach
 
 Google maps API was used to estimate journey times from each home address to each potential location.
 
-## Asking the right questions:
+## Asking the right questions
 
 * 90 minutes was considered to be a 'reasonable' travel time.
 * The distribution of journey times was an output of interest, but the key focus was "What proportion of staff will have a journey time of over 90 minutes?"
@@ -37,7 +37,7 @@ Assumptions:
 
 </center>
 
-## Understanding and measuring uncertainty:
+## Understanding and measuring uncertainty
 
 * Through sensitivity analysis on each parameter, the use of partial postcodes was found to be the most significant source of uncertainty and so dominant uncertainty was chosen.
 

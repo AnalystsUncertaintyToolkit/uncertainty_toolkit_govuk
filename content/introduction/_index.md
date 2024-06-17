@@ -21,9 +21,7 @@ There is a difference between uncertainty and risk; risk typically refers to the
 
 Taking account of uncertainty – and being seen to do so – is important for public trust. We must not pretend that the consequences of a policy or decision are certain: they are always uncertain to some degree. For each option, a range of outcomes are possible. Implying certainty about one particular outcome can damage public trust when things turn out differently.
 
-Red River Flood, Grand Forks USA, 1997
-
-### Example
+### Example: Red River Flood, Grand Forks USA, 1997
 
 The National Weather Service (NWS) predicted, 2 months in advance, the Red River to crest 49 feet.
 
@@ -32,6 +30,9 @@ In response, the levees were built to handle a flood of 51 feet
 The actual flood level was 54 feet.
 
 Had the NWS communicated their uncertainty (+/- 9 feet) the several $billion damages as well as the huge personal impact could have been avoided.
+
+![Image showing the predicted and actual flood levels with uncertainty](images/Flood_uncertainty.png)
+![Image of the resulting flood damage](images/Flood_damage.png)
 
 **download link**
 

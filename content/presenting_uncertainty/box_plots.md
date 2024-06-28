@@ -1,7 +1,7 @@
 ---
 title: "Box plots"
 draft: no
-weight: 8
+weight: 2
 summary: null
 ---
 

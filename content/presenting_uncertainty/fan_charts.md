@@ -1,7 +1,7 @@
 ---
 title: "Fan charts"
 draft: no
-weight: 12
+weight: 6
 summary: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Probability density functions (PDFs)"
 draft: no
-weight: 10
+weight: 4
 summary: null
 ---
 

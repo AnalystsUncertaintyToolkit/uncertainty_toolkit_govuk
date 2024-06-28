@@ -1,7 +1,7 @@
 ---
 title: "Cumulative density functions (CDFs)"
 draft: no
-weight: 11
+weight: 5
 summary: null
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Communicating uncertainty in qualitative research"
 draft: no
-weight: 18
+weight: 5
 summary: null
 ---
 

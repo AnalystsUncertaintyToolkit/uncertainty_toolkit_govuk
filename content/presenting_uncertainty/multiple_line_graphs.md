@@ -1,7 +1,7 @@
 ---
 title: "Multiple line charts"
 draft: no
-weight: 13
+weight: 7
 summary: null
 ---
 

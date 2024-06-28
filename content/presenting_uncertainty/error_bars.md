@@ -1,7 +1,7 @@
 ---
 title: "Error bars"
 draft: no
-weight: 7
+weight: 1
 summary: null
 ---
 

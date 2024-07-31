@@ -40,7 +40,6 @@ Assumptions:
 ## Understanding and measuring uncertainty
 
 * Through sensitivity analysis on each parameter, the use of partial postcodes was found to be the most significant source of uncertainty and so dominant uncertainty was chosen.
-
 * A Monte Carlo approach would have been a more complete analysis but was not viable in the available time.
 * A sample of postcode districts were reviewed to calculate:- The journey time from the centre of the postcode; - The shortest possible journey from within that postcode; - The longest possible journey from within that postcode.
 * The differences in these times were analysed across the sample to form distributions.

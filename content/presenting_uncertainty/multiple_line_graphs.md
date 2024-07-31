@@ -11,4 +11,6 @@ With scenario analysis, a series of line charts can be used to show the projecti
 
 Try to include an even number of scenarios, to avoid having a middle option that may be misinterpreted as the ‘most likely’ scenario.
 
-![Example: [Employment Projections, OBR (pdf)](http://cdn.obr.uk/FSR-July-2018.pdf). The graph presents future employment levels for different demographic scenarios. Each scenario is represented by a separate line plot. The graph does not attempt to show the probability of each scenario occurring.](images/multiple_line.png)
+![Example: [Employment Projections, OBR (pdf)](http://cdn.obr.uk/FSR-July-2018.pdf). The graph presents future employment levels for different demographic scenarios. Each scenario is represented by a separate line plot. The graph does not attempt to show the probability of each scenario occurring.](/images/multiple_line.png)
+
+Example: [Employment Projections, OBR (pdf)](http://cdn.obr.uk/FSR-July-2018.pdf). The graph presents future employment levels for different demographic scenarios. Each scenario is represented by a separate line plot. The graph does not attempt to show the probability of each scenario occurring.

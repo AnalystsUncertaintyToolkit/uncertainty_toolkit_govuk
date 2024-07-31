@@ -16,4 +16,7 @@ Frame rate is an important design consideration. The animation must be sufficien
 Consider whether HOPs are the most appropriate choice for communicating uncertainty in your work as some formats might not easily support animation and especially if your analysis is likely to become part of printed material.
 
 ![Example: [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) 
-How likely is it that B will be greater than A if more draws are taken? Error bars vs. HOPs. In the HOP, the lines tend to cluster around the mean, the most likely value, but show that more extreme values are still possible, albeit less likely.](images/hop.gif)
+How likely is it that B will be greater than A if more draws are taken? Error bars vs. HOPs. In the HOP, the lines tend to cluster around the mean, the most likely value, but show that more extreme values are still possible, albeit less likely.](/images/hop.gif)
+
+Example: [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) 
+How likely is it that B will be greater than A if more draws are taken? Error bars vs. HOPs. In the HOP, the lines tend to cluster around the mean, the most likely value, but show that more extreme values are still possible, albeit less likely.

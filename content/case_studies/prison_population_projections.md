@@ -40,6 +40,6 @@ Court demand and sentencing and forecasts were used within a prison population m
 
 <center>
 
-![Population projections with future error spread modelled](images/prisons.png)
+![Population projections with future error spread modelled](/images/prisons.png)
 
 </center>

@@ -37,7 +37,7 @@ Assumptions:
 
 <center>
 
-![Examples of different types of distributions](images/staff_pay_1.png)
+![Examples of different types of distributions](/images/staff_pay_1.png)
 
 </center>
 
@@ -52,6 +52,6 @@ Assumptions:
 
 <center>
 
-![Probability density profile and line graph showing positive and negative framing](images/staff_pay_2.png)
+![Probability density profile and line graph showing positive and negative framing](/images/staff_pay_2.png)
 
 </center>

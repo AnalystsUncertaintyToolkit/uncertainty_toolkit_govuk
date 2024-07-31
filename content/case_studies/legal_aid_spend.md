@@ -49,6 +49,6 @@ As no information was available on the which scenario was mostly likely, discuss
 
 <center>
 
-![Example output from a scenario analysis indicating projected spend under different assumptions](images/legal_aid.png)
+![Example output from a scenario analysis indicating projected spend under different assumptions](/images/legal_aid.png)
 
 </center>

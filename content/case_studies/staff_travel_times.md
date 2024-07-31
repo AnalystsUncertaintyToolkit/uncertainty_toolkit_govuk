@@ -33,7 +33,7 @@ Assumptions:
 
 <center>
 
-![Uncertainty introduced by incomplete postcodes](images/staff_travel_1.png)
+![Uncertainty introduced by incomplete postcodes](/images/staff_travel_1.png)
 
 </center>
 
@@ -47,7 +47,7 @@ Assumptions:
 
 <center>
 
-![Uncertainty estimates calculated from sample postcodes](images/staff_travel_2.png)
+![Uncertainty estimates calculated from sample postcodes](/images/staff_travel_2.png)
 
 </center>
 
@@ -61,6 +61,6 @@ Assumptions:
 
 <center>
 
-![Uncertainty bounds presented on culmultative distribution and bar plots of journey times](images/staff_travel_3.png)
+![Uncertainty bounds presented on culmultative distribution and bar plots of journey times](/images/staff_travel_3.png)
 
 </center>

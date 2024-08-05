@@ -39,12 +39,13 @@ Had the NWS communicated their uncertainty (+/- 9 feet) the several $billion dam
 <img src="images/Flood_uncertainty.png" alt="Image showing the predicted and actual flood levels with uncertainty" height="300"/>
 <img src="images/Flood_damage.png" alt="Image of the resulting flood damage" height="300"/>
 
+<br>
+<br>
 
 ## Toolkit contents
 
 | Chapter | Description | Link | 
 |----------|------|--------------|
-| 1. Introduction | This chapter motivates undertaking analysis of uncertainty and outlines the content of following chapters. | [Introduction]({{< ref "introduction">}})|
 | 2. Jointly agreeing how uncertainty should be used |  Before conducting any uncertainty analysis, it is important to check that you understand how the analysis will be used. What type of decision is being made? Are you informing a debate or a final decision? This will frame how you approach the analysis and how you communicate it to your customers. | [Jointly agreeing how uncertainty should be used]({{< ref "jointly_agreeing_how_uncertainty_should_be_used">}}) |
 | 3. Defining and identifying uncertainty | Considering the whole system that influences your analysis helps identify all possible areas where uncertainty can arise. Ensure you understand what is causing the uncertainty in your inputs and outputs, and whether this can be quantified. | [Defining and identifying uncertainty]({{< ref "defining_and_identifying_uncertainty">}})|
 | 4. Mitigating uncertainty |Once uncertainty has been identified it should be reduced where possible. We outline techniques for mitigating uncertainty in a variety of analytical contexts. | [Mitigating uncertainty]({{< ref "mitigating_uncertainty">}})|

@@ -19,12 +19,12 @@ Descriptive terms such as ‘low risk’ or ‘very likely’ can be [interprete
 
 An exception to this is where there is an established system that your audience is used to for attaching terminology to probabilities and mapping between verbal, pictorial and numerical articulations of uncertainty. There are a variety of scales like this and they differ considerably in how they align verbal expressions to numerical articulations:
 
-- [According to the IPCC (Intergovernmental Panel on Climate Change) (pdf)](https://wg1.ipcc.ch/SR/documents/ar5_uncertainty-guidance-note.pdf) “very likely” means 90-100% probability.
+- [According to the IPCC (Intergovernmental Panel on Climate Change) (pdf)](https://www.ipcc.ch/site/assets/uploads/2017/08/AR5_Uncertainty_Guidance_Note.pdf) “very likely” means 90-100% probability.
 - [According to NICE (National Institute for Health and Care Excellence)](https://bnf.nice.org.uk/guidance/adverse-reactions-to-drugs.html) probabilities of between 1 in 100 and 1 in 10 are referred to as “common”. 
 - [According to GLD (Government Legal Department)](https://www.gov.uk/government/publications/guidance-note-on-legal-risk) “high likelihoods” are those greater than 70%.
 - [According to PHIA (Professional Head of Intelligence Assessment)](https://www.app.college.police.uk/app-content/intelligence-management/analysis/delivering-effective-analysis/) , >=95% is “almost certain”. 
 
-Presenting the likelihood of success [may be perceived differently (pdf)](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf) to presenting the corresponding likelihood of failure. Present the information both ways to avoid bias (e.g. “there is an 80% chance of success and a 20% chance of failure”). By adding in the chance of failure, you remind the reader that it exists and how large it is, which may otherwise be overlooked. Visual part-to-whole comparisons can help with this. See the [infographics section](#infographics) for more details.
+Presenting the likelihood of success [may be perceived differently (pdf)](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf) to presenting the corresponding likelihood of failure. Present the information both ways to avoid bias (e.g. “there is an 80% chance of success and a 20% chance of failure”). By adding in the chance of failure, you remind the reader that it exists and how large it is, which may otherwise be overlooked. Visual part-to-whole comparisons can help with this. See the [infographics section]({{< ref "presenting_uncertainty/infographics">}}) for more details.
 
 ## Decide how to present your numbers
 

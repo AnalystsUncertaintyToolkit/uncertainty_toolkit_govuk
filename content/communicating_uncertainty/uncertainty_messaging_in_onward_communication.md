@@ -5,7 +5,7 @@ weight: 6
 summary: null
 ---
 
-A key challenge that you will face when trying to communicate uncertainty messages is ensuring that the integrity of these messages is maintained when they are communicated onwards, beyond your immediate client. What we are trying to avoid here are situations in which your uncertainty message becomes "distorted"" as it passes from client to client. This often manifests itself as important uncertainty information or other caveats being removed from the message, leaving only central numbers persisting in information exchanges.
+A key challenge that you will face when trying to communicate uncertainty messages is ensuring that the integrity of these messages is maintained when they are communicated onwards, beyond your immediate client. What we are trying to avoid here are situations in which your uncertainty message becomes "distorted" as it passes from client to client. This often manifests itself as important uncertainty information or other caveats being removed from the message, leaving only central numbers persisting in information exchanges.
 
 ## Defining the problem
 
@@ -35,7 +35,7 @@ Examples of immediate clients:
 
 * Case A: Low Ambiguity/High Accessibility - A trusted policy colleague who you have worked with for many years. In this situation it is likely that simply maintaining a good relationship is all that is required for them to pass on your message accurately.
 * Case B: Low Ambiguity/Low Accessibility - A well-respected figure in academia that works in a similar field to your work, likely to appreciate uncertainty messages in releases but has a lower level of accessibility due to being outside of the organisation.
-* Case C: High Ambiguity/High Accessibility - A policy colleague who has little analytical/statistical background and has shown little desire to embrace uncertainty messages in the past and instead prefers to present a ???clearer??? message without any of the necessary caveats.
+* Case C: High Ambiguity/High Accessibility - A policy colleague who has little analytical/statistical background and has shown little desire to embrace uncertainty messages in the past and instead prefers to present a "clearer" message without any of the necessary caveats.
 * Case D: High Ambiguity/Low Accessibility - A anonymous user on twitter who reads a tweet that features your publication, you have no knowledge of who the immediate client is in this situation and so there is a large amount of ambiguity combined with minimal accessibility.
 
 ## Tailor your actions depending on the nature of your immediate client

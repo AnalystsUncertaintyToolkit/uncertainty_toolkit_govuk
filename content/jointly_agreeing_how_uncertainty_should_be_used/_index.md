@@ -44,7 +44,7 @@ We can help the decision-maker to understand how information about the uncertain
 
 ### Avoid misleading results or spurious accuracy by choosing the appropriate presentation
 
-We can assess the impact of uncertainty using many different techniques. Not all will be appropriate for a given piece of analysis. A poor choice of technique may even give misleading results. For example, if there are many sources of uncertainty, the use of 95% confidence intervals to describe just one limited part of this uncertainty may be misleading, and modelling a range of described scenarios may be more appropriate. Appropriate presentation, such as rounding, is equally important to avoid spurious accuracy and implying better precision than is actually the case. Communication is covered further in [Presenting and Communicating Uncertainty]({{< ref "/presenting_and_communicating_uncertainty">}}).
+We can assess the impact of uncertainty using many different techniques. Not all will be appropriate for a given piece of analysis. A poor choice of technique may even give misleading results. For example, if there are many sources of uncertainty, the use of 95% confidence intervals to describe just one limited part of this uncertainty may be misleading, and modelling a range of described scenarios may be more appropriate. Appropriate presentation, such as rounding, is equally important to avoid spurious accuracy and implying better precision than is actually the case. These aspects are covered further in the [presenting]({{< ref "/presenting_uncertainty">}})and [communicating]({{< ref "/communicating_uncertainty">}}) uncertainty chapters.
 
 ### Discuss how the uncertainty will inform the decision-maker’s judgement
 

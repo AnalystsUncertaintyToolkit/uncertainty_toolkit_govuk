@@ -1,7 +1,7 @@
 ---
 title: "Case Studies"
 draft: false
-weight: 7
+weight: 8
 ---
 This section contains several case studies demonstrating how the principles contained within this toolkit can be applied in practice. Use the sidebar to navigate between these. 
 

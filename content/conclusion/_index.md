@@ -1,7 +1,7 @@
 ---
-title: "7. Conclusion"
+title: "8. Conclusion"
 draft: false
-weight: 6
+weight: 7
 ---
 
 Analysis is based on a model of the real word. Whether we are looking at statistics about the past, measurements of the present, or forecasts of the future, there will always be a degree of uncertainty in the outputs.

@@ -35,11 +35,10 @@ Assumptions:
 * Most numerical assumptions in the model (including dates) can be entered as a distribution (exact, uniform, or triangular, along with some bespoke distributions for specific purposes).
 * This resulted in a full probability distribution of the range of possible outcomes.
 
-<center>
-
 ![Examples of different types of distributions](/images/staff_pay_1.png)
 
-</center>
+
+
 
 
 ## Presenting and communicating uncertainty analysis
@@ -50,8 +49,7 @@ Assumptions:
 * Alongside, simple prose descriptions of the 90% prediction intervals to describe the likely range of the over-/under-spend
 * A further graph was used to show how performance against budget was predicted to evolve over the year, using multiple line graphs to show the 90% prediction intervals.
 
-<center>
+
 
 ![Probability density profile and line graph showing positive and negative framing](/images/staff_pay_2.png)
 
-</center>

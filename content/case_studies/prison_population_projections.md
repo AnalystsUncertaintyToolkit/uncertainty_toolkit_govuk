@@ -38,8 +38,5 @@ Court demand and sentencing and forecasts were used within a prison population m
 
 * The other aspect was helping customers think about how they should use the uncertainty estimates. For example: for the prison estate, assessing the likelihood of prison population reaching different levels together with an assessment of risk appetite and contingency measures we could use. This allowed for an evidence based approach for how much capacity we should plan for, not simply planning to the central estimate.
 
-<center>
+<img src="/images/prisons.png" height = "auto" width = "900" alt = "Population projections with future error spread modelled">
 
-![Population projections with future error spread modelled](/images/prisons.png)
-
-</center>

@@ -13,7 +13,7 @@ Error bars can be added easily to a data series or time series. However, if the 
 
 If the output data are 2-dimensional, then you can apply error bars in 2 dimensions. Be careful to ensure that the resulting graph does not become illegible due to clutter.
 
-![Example: [Actual and projected performance against carbon budgets, BEIS (pdf)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/794590/updated-energy-and-emissions-projections-2018.pdf). For future emissions, vertical bars show uncertainty in the projections and indicate 95% confidence intervals for the uncertainties that have been modelled.](/images/error_bars.png)
+![](/images/error_bars.png)
 
 Example: [Actual and projected performance against carbon budgets, BEIS (pdf)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/794590/updated-energy-and-emissions-projections-2018.pdf). For future emissions, vertical bars show uncertainty in the projections and indicate 95% confidence intervals for the uncertainties that have been modelled.
 

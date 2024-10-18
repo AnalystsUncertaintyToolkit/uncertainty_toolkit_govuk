@@ -36,8 +36,8 @@ The actual flood level was 54 feet.
 
 Had the NWS communicated their uncertainty (+/- 9 feet) the several $billion damages as well as the huge personal impact could have been avoided.
 
-<img src="images/Flood_uncertainty.png" alt="Image showing the predicted and actual flood levels with uncertainty" height="300"/>
-<img src="images/Flood_damage.png" alt="Image of the resulting flood damage" height="300"/>
+<img src="/images/Flood_uncertainty.png" alt="Image showing the predicted and actual flood levels with uncertainty" height="300"/>
+<img src="/images/Flood_damage.png" alt="Image of the resulting flood damage" height="300"/>
 
 <br>
 <br>

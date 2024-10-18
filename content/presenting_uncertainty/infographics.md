@@ -13,6 +13,6 @@ Not all infographics communicate uncertainty, but uncertainty information can be
 
 Like all graphs and visualisation you should ensure the information is presented clearly and truthfully. With infographics there is additional the risk that visual design elements detract from the key message. Consider the final audience for the information to determine if an infographic is the right choice and [follow best practice (pdf)](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/infographics-guidelines.pdf)
 
-<img src="/images/infographic.png" alt = "Example: [Reoffending Behaviour After Receiving Treatment, MoJ (pdf)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/747467/Key4Life_Report.pdf) The infographic uses people icons rather than a bar chart to show the number of reoffenders in a sample. An uncertainty in the form of confidence intervals is included in the infographic." height = "275" width = "900">
+<img src="/images/infographic.png" height = "275" width = "900">
 
 Example: [Reoffending Behaviour After Receiving Treatment, MoJ (pdf)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/747467/Key4Life_Report.pdf) The infographic uses people icons rather than a bar chart to show the number of reoffenders in a sample. An uncertainty in the form of confidence intervals is included in the infographic.

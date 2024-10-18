@@ -47,8 +47,6 @@ Two additional scenarios were considered:
 As no information was available on the which scenario was mostly likely, discussion focused on the risks that were associated with taking each scenario through for planning purposes, such as over or underspending against the overall budget.
 * Scenario analysis was used to provide a range of values to illustrate the large amounts of uncertainty around the forecast without giving the impression that any particular outcome was more likely, allowing a decision to be made with the understanding of the risks involved.
 
-<center>
 
 ![Example output from a scenario analysis indicating projected spend under different assumptions](/images/legal_aid.png)
 
-</center>

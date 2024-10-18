@@ -31,11 +31,11 @@ Assumptions:
 * Journey time assumes all transport is running to schedule.
 * Assumptions for transfer times, walking speeds etc.
 
-<center>
+
 
 ![Uncertainty introduced by incomplete postcodes](/images/staff_travel_1.png)
 
-</center>
+
 
 ## Understanding and measuring uncertainty
 
@@ -45,11 +45,11 @@ Assumptions:
 * The differences in these times were analysed across the sample to form distributions.
 * Producing an uncertainty estimate of 90% of journey times to be within +/- 25 minutes of the calculated durations.
 
-<center>
+
 
 ![Uncertainty estimates calculated from sample postcodes](/images/staff_travel_2.png)
 
-</center>
+
 
 ## Presenting and communicating uncertainty analysis
 
@@ -59,8 +59,7 @@ Assumptions:
 * Unquantified uncertainties were communicated e.g. the assumption of no delays.
 * The communication of the uncertainty made clear the case for obtaining exact postcodes, allowing the analysis to be repeated with less postcode uncertainty.
 
-<center>
 
 ![Uncertainty bounds presented on culmultative distribution and bar plots of journey times](/images/staff_travel_3.png)
 
-</center>
+

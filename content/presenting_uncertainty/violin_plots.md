@@ -11,6 +11,6 @@ Violin plots can help to avoid bias which can occur when interpreting intervals 
 
 The audience might find interpretation of violin plots hard if they are unfamiliar with them. Weigh up the value added from the additional detail on uncertainty against the increased potential for audience confusion and consider what additional commentary should go alongside the plot to aid interpretation.
 
-![Example: [Collision probabilities of non-constellation spacecraft and constellation satellites, London Economics analysis for the UK Space Agency (pdf)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/917911/LE-UKSA_Commercial_Space_Surveillance_Tracking_FINAL_FOR_PUBLICATION.pdf). The graph shows how the collision probability for a subset of 216 non-constellation spacecraft and over 16,000 constellation satellites changes across the years 2020, 2025, 2029 and 2036.](/images/violin_plots.png)
+![](/images/violin_plots.png)
 
 Example: [Collision probabilities of non-constellation spacecraft and constellation satellites, London Economics analysis for the UK Space Agency (pdf)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/917911/LE-UKSA_Commercial_Space_Surveillance_Tracking_FINAL_FOR_PUBLICATION.pdf). The graph shows how the collision probability for a subset of 216 non-constellation spacecraft and over 16,000 constellation satellites changes across the years 2020, 2025, 2029 and 2036.

@@ -15,6 +15,6 @@ Labelling can be used to highlight the key features. It may aid clarity to draw 
 
 If we need to communicate a series of PDFs, then multiple functions can be shown to compare the range of possible outcomes across the series. If there are only 2 or 3 these can be overlaid to make it easy to compare. With more, ‘small multiples’ are likely to be clearer.
 
-![Example: [Change in Air Temperature for 2080-2099, Met Office (pdf)](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---how-to-use-the-cdf-and-pdf-plots.pdf). The graph shows the expected change in air temperature in 2080-99 compared to 1981-2000 for a medium emission scenario.](/images/pdf.png)
+![](/images/pdf.png)
 
 Example: [Change in Air Temperature for 2080-2099, Met Office (pdf)](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---how-to-use-the-cdf-and-pdf-plots.pdf). The graph shows the expected change in air temperature in 2080-99 compared to 1981-2000 for a medium emission scenario.

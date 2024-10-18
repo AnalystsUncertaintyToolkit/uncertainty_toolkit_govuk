@@ -19,7 +19,7 @@ The remainder of this subsection includes guidance on how to communicate uncerta
 
 ## Communicate uncertainty in research design
 
-[Section 3](ADD LINK) of the toolkit details the main sources of uncertainty for qualitative research. These include: a lack of representativeness of the population and sub-groups within it, potential biases due to researchers’ subjective judgements in the process of recruitment and analysis, and differences in how research participants engage with the research process.
+[Section 3]({{< ref "/defining_and_identifying_uncertainty/Sources - qual research">}}) of the toolkit details the main sources of uncertainty for qualitative research. These include: a lack of representativeness of the population and sub-groups within it, potential biases due to researchers’ subjective judgements in the process of recruitment and analysis, and differences in how research participants engage with the research process.
 
 When reporting findings from qualitative research it is important to be transparent about the limitations, bias and uncertainty in the research design and the implications for how findings should be interpreted and used in decision-making.
 

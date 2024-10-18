@@ -44,7 +44,7 @@ Commissioners may request a ‘best estimate’ for ease of onward use, but you 
 
 Stating a range may be perceived as a uniform distribution across the range. Conversely, stating a range around a best estimate may be perceived as a triangular distribution (or Normal with analytical audiences). The output distribution could of course also be asymmetric or bi-modal. Consider which of these best reflects the actual uncertainty when deciding what to present.
 
-Don’t simply use 95% confidence intervals by default. Think about what the outputs are going to be used for (see [Jointly agreeing how uncertainty should be used](ADD LINK), and discuss the level of risk and uncertainty that the decision maker wants to plan for – this might not be 5%.
+Don’t simply use 95% confidence intervals by default. Think about what the outputs are going to be used for (see [jointly agreeing how uncertainty should be used]({{< ref "jointly_agreeing_how_uncertainty_should_be_used">}}), and discuss the level of risk and uncertainty that the decision maker wants to plan for – this might not be 5%.
 
 Be clear what confidence level you are using and ensure your audience understands what this means (avoiding precise statistical definitions if it will increase comprehension).
 

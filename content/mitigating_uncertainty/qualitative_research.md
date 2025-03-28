@@ -49,7 +49,7 @@ However, it is worth being mindful that one of the key purposes and strengths of
 
 ## Analytical quality assurance
 
-As outlined in [mitigating uncertainty in quantitative data analysis]({{< ref "/quantitative_data_analysis" >}}), steps applied to quality assuring quantitative data are also relevant to quality assuring qualitative research.
+As outlined in [mitigating uncertainty in quantitative data analysis]({{< ref "/mitigating_uncertainty/quantitative_data_analysis" >}}), steps applied to quality assuring quantitative data are also relevant to quality assuring qualitative research.
 
 Although the AQUA book does not specifically outline suggestions for AQA of qualitative research, it should be subject to the same attention to best practice and quality assurance in its design and analysis as model building and quantitative analysis. Check whether your department has created its own guidance for conducting qualitative AQA (for example, this exists in the Home Office).
 

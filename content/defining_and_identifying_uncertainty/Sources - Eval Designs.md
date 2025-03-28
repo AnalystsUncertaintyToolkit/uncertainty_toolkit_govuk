@@ -50,7 +50,7 @@ Uncertainty is increased when the chosen control group is not comparable to the 
 
 ### Before-after comparisons
 
-Binary before-after comparisons can be misleading if they are presented without contextual information. Comparisons from one period to another (such as comparing this week or month to the same period last year) are common. However, they present data out of the context of the underlying trend or do not account for the effect of seasonality. For example, drawing comparisons in outcomes between January 2020 and January 2021 would be misleading as external factors, such as the COVID-19 pandemic, would have had significantly impacted trends. Alternatives to before-after comparisons are discussed in chapter 4, [Mitigating uncertainty]({{< ref "/mitigating_uncertainty" >}}).
+Binary before-after comparisons can be misleading if they are presented without contextual information. Comparisons from one period to another (such as comparing this week or month to the same period last year) are common. However, they present data out of the context of the underlying trend or do not account for the effect of seasonality. For example, drawing comparisons in outcomes between January 2020 and January 2021 would be misleading as external factors, such as the COVID-19 pandemic, would have had significantly impacted trends. Alternatives to before-after comparisons are discussed in [Mitigating uncertainty]({{< ref "/mitigating_uncertainty" >}}).
 
 ### Randomised controlled trials
 

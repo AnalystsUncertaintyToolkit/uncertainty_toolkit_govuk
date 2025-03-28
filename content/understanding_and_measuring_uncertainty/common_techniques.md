@@ -1,6 +1,7 @@
 ---
-title: "5.2 Common techniques for assessing uncertainty in analytical outputs"
+title: "Common techniques for assessing uncertainty in analytical outputs"
 draft: false
+weight: 2
 ---
 
 Now that we have explored how to assess uncertainties in individual analytical inputs, we turn to commonly used techniques for analysing overall  uncertainty in analytical outputs, moving from approaches to use when we have a good numerical understanding of input uncertainties, through to approaches which can be used when we know less about how input uncertainties are quantified.
@@ -226,6 +227,8 @@ However the uncertainty is estimated, make sure that it is clear that it is a su
 * Analysis where the expected range of results would lead to the same outcome
 
 {{< /accordion >}}
+
+{{< /accordionset >}}
 
 
 

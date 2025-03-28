@@ -1,5 +1,5 @@
 ---
-title: "6. Communicating uncertainty"
+title: "Communicating uncertainty"
 draft: false
 weight: 5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "7. Presenting uncertainty"
+title: "Presenting uncertainty"
 draft: false
 weight: 6
 ---

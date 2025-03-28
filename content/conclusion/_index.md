@@ -1,5 +1,5 @@
 ---
-title: "8. Conclusion"
+title: "Conclusion"
 draft: false
 weight: 7
 ---

@@ -44,7 +44,7 @@ The basic process for a Monte Carlo simulation is to:
 * Can help assess overall uncertainty when you have uncertainty around many aspects of your model
 * Assess uncertainty around a fund forecast
 * Estimate the uncertainty around assumptions used in policy costings
-* An example of how MoJ use Monte Carlo analysis to assess uncertainty is provided [here](https://github.com/AnalystsUncertaintyToolkit/UncertaintyWeb/blob/master/Monte%20Carlo%20template/Monte%20Carlo%20Template.xlsm)
+* An example of how MoJ use Monte Carlo analysis to assess uncertainty is provided in <a href="/Monte Carlo Template Technical Guide.docx">this word document (DOCX, 197KB)</a>
 
 {{< /accordion >}}
 

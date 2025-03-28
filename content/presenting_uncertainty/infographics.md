@@ -1,6 +1,6 @@
 ---
 title: "Infographics"
-draft: no
+draft: false
 weight: 10
 summary: null
 ---

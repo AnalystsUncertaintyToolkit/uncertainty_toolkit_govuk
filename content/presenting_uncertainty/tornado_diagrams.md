@@ -1,6 +1,6 @@
 ---
 title: "Tornado diagrams"
-draft: no
+draft: false
 weight: 8
 summary: null
 ---

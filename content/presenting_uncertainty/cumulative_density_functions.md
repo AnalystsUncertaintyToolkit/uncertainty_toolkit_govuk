@@ -1,6 +1,6 @@
 ---
 title: "Cumulative density functions (CDFs)"
-draft: no
+draft: false
 weight: 5
 summary: null
 ---

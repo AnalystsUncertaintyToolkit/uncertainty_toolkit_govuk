@@ -1,6 +1,6 @@
 ---
 title: "Error bars"
-draft: no
+draft: false
 weight: 1
 summary: null
 ---

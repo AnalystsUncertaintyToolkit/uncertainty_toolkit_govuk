@@ -1,6 +1,6 @@
 ---
 title: "Hypothetical Outcome Plots (HOPS)"
-draft: no
+draft: false
 weight: 9
 summary: null
 ---

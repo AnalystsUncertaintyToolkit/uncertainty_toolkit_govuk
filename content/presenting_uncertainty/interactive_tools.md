@@ -1,6 +1,6 @@
 ---
 title: "Interactive tools"
-draft: no
+draft: false
 weight: 11
 summary: null
 ---

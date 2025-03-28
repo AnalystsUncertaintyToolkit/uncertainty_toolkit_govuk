@@ -1,6 +1,6 @@
 ---
 title: "Violin plots"
-draft: no
+draft: false
 weight: 3
 summary: null
 ---

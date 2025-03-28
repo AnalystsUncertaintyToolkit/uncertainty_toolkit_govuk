@@ -1,6 +1,6 @@
 ---
 title: "Box plots"
-draft: no
+draft: false
 weight: 2
 summary: null
 ---

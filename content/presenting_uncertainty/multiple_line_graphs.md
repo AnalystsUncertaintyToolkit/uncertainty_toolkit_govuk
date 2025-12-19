@@ -1,6 +1,6 @@
 ---
 title: "Multiple line charts"
-draft: no
+draft: false
 weight: 7
 summary: null
 ---
@@ -11,6 +11,6 @@ With scenario analysis, a series of line charts can be used to show the projecti
 
 Try to include an even number of scenarios, to avoid having a middle option that may be misinterpreted as the ‘most likely’ scenario.
 
-<img src="/images/multiple_line.png" width = "750">
+<img src="/images/multiple_line.png" width = "750" alt = "">
 
 Example: [Road traffic forecasts 2018, DfT](https://www.gov.uk/government/publications/road-traffic-forecasts-2018). The graph presents future car traffic volumes for different scenarios. Each scenario is represented by a separate line plot. Historical outturn values are presented via bars. The graph does not attempt to show the probability of each scenario occurring.

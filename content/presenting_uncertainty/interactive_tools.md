@@ -1,6 +1,6 @@
 ---
 title: "Interactive tools"
-draft: no
+draft: false
 weight: 11
 summary: null
 ---
@@ -12,6 +12,6 @@ If a key source of uncertainty is a single variable, then it may be possible to 
 
 Being able to see what would happen if an underlying assumption was to change is a powerful way to demonstrate the level of uncertainty in a given result.
 
-<img src="/images/interactive_tools.png" width = "750">
+<img src="/images/interactive_tools.png" width = "750" alt = "">
 
 Example: The [MacKay Carbon Calculator](https://www.gov.uk/guidance/carbon-calculator) is a user-friendly tool that helps users to explore the choices available to reduce the UK's greenhouse gas emissions to net zero by 2050. Whilst it doesn’t explicitly cover the uncertainty in the underlying data it does allow the user to create their own set of policies to try to reach the target. This engaging tool was helpful in demonstrating to users how difficult some of the options are and the relative impact of each choice.

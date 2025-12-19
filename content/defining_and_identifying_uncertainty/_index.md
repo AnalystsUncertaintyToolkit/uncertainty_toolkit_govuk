@@ -1,9 +1,7 @@
 ---
-title: "3. Defining and identifying uncertainty"
-date: 2023-02-27T17:25:32Z
+title: "Defining and identifying uncertainty"
 draft: false
 weight: 2
-listpages: false
 ---
 
 Analytical uncertainty can feed through into analysis and subsequent decision making from many different sources.

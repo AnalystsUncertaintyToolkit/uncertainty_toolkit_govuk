@@ -35,4 +35,4 @@ Synthesis methods include systematic review and meta-analyses. These methods inc
 
 Evidence synthesis (i.e. systematic reviews and meta-analyses) sit at the top of the ‘evidence pyramid’. This means they are considered the evidence source with the least uncertainty and highest rigour as their design minimises bias and maximises your ability to ascertain causality. However, the types of evidence at the top of the pyramid may not be available or feasible for your research topic of interest, in which case you will need to move down the evidence pyramid (note that this is not a comprehensive list of potential evidence sources):
 
-![Evidence Pyramid](/images/evidence_pyramid.png)
+<img src="/images/evidence_pyramid.png" alt="Image showing the evidence pyramid, which goes in order from lowest to highest levels of uncertainty: evidence synthesis; Randomised control trials; cohort studies; case control studies; case series and case reports; editorials and expert opinion."/>

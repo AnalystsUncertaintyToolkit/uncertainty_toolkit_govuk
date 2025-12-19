@@ -1,6 +1,7 @@
 ---
-title: "5.2 Common techniques for assessing uncertainty in analytical outputs"
+title: "Common techniques for assessing uncertainty in analytical outputs"
 draft: false
+weight: 2
 ---
 
 Now that we have explored how to assess uncertainties in individual analytical inputs, we turn to commonly used techniques for analysing overall  uncertainty in analytical outputs, moving from approaches to use when we have a good numerical understanding of input uncertainties, through to approaches which can be used when we know less about how input uncertainties are quantified.
@@ -43,7 +44,7 @@ The basic process for a Monte Carlo simulation is to:
 * Can help assess overall uncertainty when you have uncertainty around many aspects of your model
 * Assess uncertainty around a fund forecast
 * Estimate the uncertainty around assumptions used in policy costings
-* An example of how MoJ use Monte Carlo analysis to assess uncertainty is provided [here](https://github.com/AnalystsUncertaintyToolkit/UncertaintyWeb/blob/master/Monte%20Carlo%20template/Monte%20Carlo%20Template.xlsm)
+* An example of how MoJ use Monte Carlo analysis to assess uncertainty is provided in <a href="/Monte Carlo Template Technical Guide.docx">this word document (DOCX, 197KB)</a>
 
 {{< /accordion >}}
 
@@ -226,6 +227,8 @@ However the uncertainty is estimated, make sure that it is clear that it is a su
 * Analysis where the expected range of results would lead to the same outcome
 
 {{< /accordion >}}
+
+{{< /accordionset >}}
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Mitigating Uncertainty"
+title: "Mitigating Uncertainty"
 draft: false
 weight: 3
 ---

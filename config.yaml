@@ -15,7 +15,7 @@ params:
   logotext: ABC
   product: Uncertainty Toolkit for Analysts in Government
   phase: alpha
-  feedbackurl: https://your.site/feedback
+  feedbackurl: /contact/
   accessibility: Accessibility/_index.md
   privacy: privacy.md
   contact: Contact/_index.md

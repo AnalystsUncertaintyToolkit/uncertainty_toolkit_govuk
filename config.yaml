@@ -1,4 +1,4 @@
-baseURL: https://your.site/
+baseURL: https://analystsuncertaintytoolkit.github.io/uncertainty_toolkit_govuk/
 languageCode: en-gb
 title: Uncertainty Toolkit for Analysts in Government
 theme: govukhugo
@@ -12,10 +12,9 @@ markup:
 
 params:
   govuk: false
-  logotext: ABC
+  logotext: UTAG
   product: Uncertainty Toolkit for Analysts in Government
-  phase: alpha
+  phase: beta
   feedbackurl: /contact/
   accessibility: Accessibility/_index.md
-  privacy: privacy.md
   contact: Contact/_index.md

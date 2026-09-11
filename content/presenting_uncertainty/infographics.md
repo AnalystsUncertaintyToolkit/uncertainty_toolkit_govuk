@@ -11,7 +11,7 @@ When done well they will grab the reader’s attention and become a very powerfu
 
 Not all infographics communicate uncertainty, but uncertainty information can be included within the infographic. In the example below, confidence intervals are included as part of the infographic . 
 
-Like all graphs and visualisation you should ensure the information is presented clearly and truthfully. With infographics there is additional the risk that visual design elements detract from the key message. Consider the final audience for the information to determine if an infographic is the right choice and [follow best practice (pdf)](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/infographics-guidelines.pdf)
+Like all graphs and visualisation you should ensure the information is presented clearly and truthfully. With infographics there is additional the risk that visual design elements detract from the key message. Consider the final audience for the information to determine if an infographic is the right choice and [follow best practice ](https://analysisfunction.civilservice.gov.uk/policy-store/infographics/)
 
 <img src="/images/infographics.png" width = "900" alt = "">
 

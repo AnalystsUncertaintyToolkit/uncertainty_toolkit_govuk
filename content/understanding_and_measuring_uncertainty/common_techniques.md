@@ -131,7 +131,7 @@ Repeat for the variance at each subsequent time period to produce e.g. a fan for
 
 #### Example
 
-[MoJ prison population forecasting]({{< ref "/case_studies" >}})
+[MoJ prison population forecasting](https://analystsuncertaintytoolkit.github.io/uncertainty_toolkit_govuk/case_studies/prison_population_projections/)
 
 {{< /accordion >}}
 

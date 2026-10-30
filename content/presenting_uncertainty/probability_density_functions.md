@@ -17,4 +17,4 @@ If we need to communicate a series of PDFs, then multiple functions can be shown
 
 <img src="/images/pdf.png" alt = ""/>
 
-Example: [Change in Air Temperature for 2080-2099, Met Office (pdf)](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---how-to-use-the-cdf-and-pdf-plots.pdf). The graph shows the expected change in air temperature in 2080-99 compared to 1981-2000 for a medium emission scenario.
+Example: [Change in Air Temperature for 2080-2099, Met Office (pdf)](https://www.metoffice.gov.uk/api/assets/file/ukcp18-guidance---how-to-use-the-cdf-and-pdf-plotspdf?prefix=assets). The graph shows the expected change in air temperature in 2080-99 compared to 1981-2000 for a medium emission scenario.

@@ -5,7 +5,7 @@ weight: 3
 summary: 
 ---
 
-## Understand your auidience when choosing appropriate communication methods
+## Understand your audience when choosing appropriate communication methods
 
 Before communicating your analysis you must consider who your audience is, why they should be interested in your work, what they know already, and what key message you need to convey to them to make their decision. People respond differently to different communication methods. It is good practice to always use Plain English, avoid analytical jargon with non analysts, and frame your results in terms of the decision being made and how it is useful for them. 
 
